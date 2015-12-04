@@ -1,0 +1,28 @@
+name: Fresh Entertainments
+favicon: null
+layout_spectrum: 0.7375922908540815
+typography_spectrum: 0.8301836340688169
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8961775361094624
+  lightness: 0.8351460895501077
+  saturation: 0.8369744983501732
+  rhythmicContrast: 0.9999859109520912
+purpose: []
